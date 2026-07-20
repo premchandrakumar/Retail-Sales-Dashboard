@@ -30,4 +30,4 @@ This is an interactive Retail Sales Dashboard built using Microsoft Excel. It he
 Upload your dashboard screenshot as **Dashboard.png** in this repository.
 
 ## 👨‍💻 Author
-Prem Chandra
+PREMCHANDRA KUMAR
